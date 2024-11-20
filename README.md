@@ -1,2 +1,2 @@
-# esim
+# tera
 Simulator for EARTH
